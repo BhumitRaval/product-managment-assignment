@@ -46,3 +46,20 @@ product-management/
 ├── templates/
 ├── static/
 └── README.md
+
+
+## 📜 License
+
+This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.
+
+You are free to:
+- Use the software for any purpose
+- Study and modify the source code
+- Share and redistribute the software
+
+Under the condition that:
+- Any modified or redistributed version must also be licensed under GPL-3.0
+- Proper credit is given to the original author
+
+© 2025 Bhumit Raval
+
